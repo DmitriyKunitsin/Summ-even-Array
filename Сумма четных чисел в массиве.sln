@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сумма четных чисел в массиве", "Сумма четных чисел в массиве\Сумма четных чисел в массиве.csproj", "{1E19DD0F-B31F-4A03-990D-1D405B27237D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E19DD0F-B31F-4A03-990D-1D405B27237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E19DD0F-B31F-4A03-990D-1D405B27237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E19DD0F-B31F-4A03-990D-1D405B27237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E19DD0F-B31F-4A03-990D-1D405B27237D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98027854-644E-4C12-B177-9F70FE0D1E25}
+	EndGlobalSection
+EndGlobal
